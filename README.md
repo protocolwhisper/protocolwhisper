@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Clippo
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning Hyperledger Besu , Docker 
-- 💞️ I’m looking to collaborate on blockchain 
+- 👀 I’m interested in Ship web3 tools
+- 🌱 I’m currently learning Solidity , Typescript and Rust
+- 💞️ I’m looking to collaborate on blockchain open source projects
 - 📫 How to reach me clippofed@gmail.com
 
 <!---
