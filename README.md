@@ -16,7 +16,7 @@ __I'm *ProtocolWhisper* from Ecuador. I love contributing to open source project
 
 ### Connect With Me 🤝🤝
 
-[<img src = "https://img.shields.io/badge/nihacknidev-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/nihacknidev)
+[<img src = "https://img.shields.io/badge/protocolllo-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/protocolllo)
 [<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/chrismatain/)
 
 ### Papers :page_with_curl:
