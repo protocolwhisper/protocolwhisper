@@ -3,7 +3,7 @@
 __I'm *ProtocolWhisper* from Ecuador. I love contributing to open source projects. My career interests are contributing in the research an deployment of production solutions that will help web3 scale.Always there to help others and to clarify any doubts.__
 
 ### My Skills 🚀
-
+(https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square) ![Solidity](https://img.shields.io/badge/Solidity-%3E%3D%200.8.15-blue) ![LaTeX](https://img.shields.io/badge/LaTeX-%3E%20Grey)![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB) ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032) 
 
 ### Linux Lover :blue_heart:
