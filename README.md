@@ -11,7 +11,7 @@ __I'm *ProtocolWhisper* from Ecuador. I love contributing to open source project
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" style="max-width: 100%;">
 </div>
 
-![Solidity](https://img.shields.io/badge/Solidity-%3E%3D%200.8.15-blue) ![LaTeX](https://img.shields.io/badge/LaTeX-%3E%20Grey)![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB) ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032) 
+![Solidity](https://img.shields.io/badge/Solidity-%3E%3D%200.8.15-blue) ![LaTeX](https://img.shields.io/badge/LaTeX-%3E%20Grey)![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB) ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Linux Lover :blue_heart:
  ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
