@@ -26,6 +26,10 @@ __I'm *ProtocolWhisper* from Ecuador. I love contributing to open source project
 [<img src = "https://img.shields.io/badge/protocolllo-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/protocolllo)
 [<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/chrismatain/)
 
+### Blog ⚡
+
+(https://protocolwhisper.hashnode.dev)
+
 ### Research Papers :page_with_curl:
 Mathematical model for the estimation of pollutants from category m1 vehicles in cold and hot operation stages in the city of Cuenca :car: (https://www.scopus.com/inward/record.uri?eid=2-s2.0-85084851067&partnerID=40&md5=aac1180833ccb5efd768720ca5596f39)
 
